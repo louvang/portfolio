@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "name": "Lou Vang Portfolio",
+  "homepage": "https://louvang.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

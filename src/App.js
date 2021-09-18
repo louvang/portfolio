@@ -1,3 +1,4 @@
+import Cursor from './components/Cursor';
 import Header from './components/Header';
 import Work from './components/Work';
 import Footer from './components/Footer';
@@ -14,6 +15,8 @@ import EtchImg from './assets/work-etch.png';
 function App() {
   return (
     <div className="App">
+      <Cursor />
+
       <Header />
 
       <Work

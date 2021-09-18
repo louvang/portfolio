@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+// body,
+// html {
+//   &,
+//   * {
+//     cursor: none;
+//   }
+// }
+
+* {
+  cursor: none;
+}
+
 body {
   margin: 0;
   background-color: #171717;
@@ -18,7 +30,7 @@ header {
 
   .logo {
     margin: 1.5rem;
-    cursor: default;
+    // cursor: default;
     text-transform: uppercase;
 
     .whoAmI {
@@ -134,12 +146,12 @@ header {
 .descContainer:hover {
   transform: scale(1.15);
   transition: 0.3s ease-in-out;
-  cursor: default;
+  // cursor: default;
 }
 
 .title {
   text-align: right;
-  cursor: default;
+  // cursor: default;
   margin-right: 1.25rem;
 
   a {

@@ -48,7 +48,7 @@ function Header() {
           Lou Vang
         </div>
         <div className="whatAmI" ref={rellax3}>
-          Fullstack Developer
+          Frontend Developer
         </div>
       </div>
 
@@ -63,7 +63,7 @@ function Header() {
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/lou-vang-755813220/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/louvang/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
           </li>
